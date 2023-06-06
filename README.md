@@ -19,5 +19,5 @@
 >npm start
 
 ## Add a .gitignore file
-> /node_modules
-> .env
+### /node_modules
+### .env
