@@ -17,3 +17,7 @@
 >npm run start
 ### 2. cd server
 >npm start
+
+## Add a .gitignore file
+> /node_modules
+> .env
