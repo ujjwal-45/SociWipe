@@ -19,5 +19,6 @@
 >npm start
 
 ## Add a .gitignore file
+### This will ignore node modules and your secret environment variables to be commited to git
 ### /node_modules
 ### .env
