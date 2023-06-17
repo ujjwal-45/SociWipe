@@ -1,4 +1,7 @@
 # Social-media-app
+![new screen](https://github.com/ujjwal-45/SociWipe/assets/106880198/2c7865f2-3df6-4ce5-9a22-5140794cb584)
+
+
 
 ## install packages
 ### 1.in root directory 
