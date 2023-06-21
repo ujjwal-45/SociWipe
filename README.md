@@ -5,21 +5,31 @@
 
 ## install packages
 ### 1.in root directory 
-> npm install 
+```bash
+npm install
+```
 ### 2. change to client directory by cd client
-> npm install
+```bash
+npm install
+```
 
 ## create .env file in server folder
->1. MONGO_URL = "" // this is the URL created from mongodb atlas database
->2. PORT = 3001
->3. JWT_SECRET = "superstrongpassword or anything"
+```bash
+1. MONGO_URL = "" // this is the URL created from mongodb atlas database
+2. PORT = 3001
+3. JWT_SECRET = "superstrongpassword or anything"
+```
 
 ## Start the App
 ### In two terminal
 ### 1. cd client
->npm run start
+```bash
+npm run start
+```
 ### 2. cd server
->npm start
+```bash
+npm start
+```
 
 ## Add a .gitignore file
 ### This will ignore node modules and your secret environment variables to be commited to git
